@@ -85,7 +85,16 @@ View the interactive dashboard here:
 
 https://public.tableau.com/app/profile/veluru.jaswanth/viz/HRdepartmentemployeedata/Dashboard1
 
+---
+##  Repository Structure
 
+```
+HR-Analytics-Dashboard/
+│
+├── README.md
+├── dashboard.png
+├── HR_Employee_Data.csv
+├── HR_Analytics.twbx
 ---
 
 ## Skills Demonstrated
