@@ -70,6 +70,13 @@ Displays the employee receiving the maximum annual bonus.
 
 ---
 
+## 📷 Dashboard Preview
+
+> HR Dashboard.
+> <img width="1798" height="848" alt="Screenshot 2026-08-02 205229" src="https://github.com/user-attachments/assets/75f89f19-b7a2-41a7-b7e4-c8271627cfd2" />
+
+---
+
 ## Live Dashboard
 
 View the interactive dashboard here:
